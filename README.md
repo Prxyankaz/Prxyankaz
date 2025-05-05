@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/Harini-username/assets/banner-placeholder.png" alt="Harini's Banner" width="700px">
-</div>
-
 # Harini Priyanka
 
 Curious learner. Passionate builder.
