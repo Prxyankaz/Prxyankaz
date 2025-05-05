@@ -6,7 +6,7 @@ Curious learner. Passionate builder.
 
 I'm a full-stack developer and tech enthusiast with a passion for building impactful, scalable solutions—ranging from embedded systems to cloud-native apps. I thrive on solving real-world problems through code and innovation.
 
-
+---
 ### What I Work With
 
 * **Languages:** Python, Java, C++, JavaScript, HTML, CSS, SQL, Haskell  
@@ -17,13 +17,16 @@ I'm a full-stack developer and tech enthusiast with a passion for building impac
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Activity Stats (Dark Theme)
 
-![Harini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prxyankaz&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  
-![Harini's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prxyankaz&layout=compact&theme=radical)  
-![Harini's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prxyankaz&theme=radical)
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prxyankaz&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Harini's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prxyankaz&layout=compact&theme=radical" alt="Harini's Top Languages" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prxyankaz&theme=radical" alt="Harini's GitHub Streak" />
+</p>
+---s
 
 ### 📫 Let's Connect!
 
