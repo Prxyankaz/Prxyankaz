@@ -28,4 +28,8 @@ I'm a full-stack developer and tech enthusiast with a passion for building impac
 ### 📫 Let's Connect!
 
 - **📧 Email:** [hpriyanka1710@gmail.com](mailto:hpriyanka1710@gmail.com)  
-- **🔗 LinkedIn:** [linkedin.com/in/harini-priyanka](https://linkedin.com/in/harini-priyanka)  
+- **🔗 LinkedIn:** [linkedin.com/in/harini-priyanka](https://linkedin.com/in/harini-priyanka)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prxyankaz&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
+
