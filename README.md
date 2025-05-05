@@ -15,17 +15,18 @@ I'm a full-stack developer and tech enthusiast with a passion for building impac
 * **Embedded Systems:** STM32, ESP32, Keil, ARM Cortex-M, Embedded C  
 * **Other Skills:** Full-stack development, Cloud platforms, Machine Learning, IoT
 
----
 
-## 📊 GitHub Activity Stats (Dark Theme)
+
+## 📊 GitHub Activity Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prxyankaz&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Harini's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prxyankaz&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Harini's GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prxyankaz&layout=compact&theme=radical" alt="Harini's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prxyankaz&layout=compact&theme=dark" alt="Harini's Top Languages" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prxyankaz&theme=radical" alt="Harini's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prxyankaz&theme=black-ice" alt="Harini's GitHub Streak" />
 </p>
+
 ---
 
 ### 📫 Let's Connect!
