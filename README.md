@@ -7,6 +7,13 @@ Curious learner. Passionate builder.
 I'm a full-stack developer and tech enthusiast with a passion for building impactful, scalable solutions—ranging from embedded systems to cloud-native apps. I thrive on solving real-world problems through code and innovation.
 
 ---
+## 📊 GitHub Activity Stats
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prxyankaz&theme=black-ice" alt="Harini's GitHub Streak" />
+</p>
+
+---
 ### What I Work With
 
 * **Languages:** Python, Java, C++, JavaScript, HTML, CSS, SQL, Haskell  
@@ -15,13 +22,6 @@ I'm a full-stack developer and tech enthusiast with a passion for building impac
 * **Embedded Systems:** STM32, ESP32, Keil, ARM Cortex-M, Embedded C  
 * **Other Skills:** Full-stack development, Cloud platforms, Machine Learning, IoT
 
-
-
-## 📊 GitHub Activity Stats
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prxyankaz&theme=black-ice" alt="Harini's GitHub Streak" />
-</p>
 
 ---
 
