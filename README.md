@@ -35,18 +35,6 @@ Curious learner. Passionate builder.
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![After Effects](https://img.shields.io/badge/Adobe%20AE-9999FF.svg?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 
----
-
-## 🚀 Projects That I'm Proud Of:
-- 🚦 **Intelligent Traffic Management System**  
-  Real-time traffic alert system with role-based access for emergency vehicle routing and public incident reporting.  
-  _Built using Node.js, MongoDB Atlas, WebSockets, Google Maps API._
-
-- 🧠 **Smart Wheelchair Prototype**  
-  IoT + ML-enabled wheelchair using ESP32, Firebase, MPU6050, and MAX30100 for fall detection, obstacle avoidance, and health monitoring.
-
-- 🛰️ **LoRa-NRF24L01 Dual Communication IoT System**  
-  Cross-device communication using LoRa & NRF modules with Firebase + InfluxDB cloud sync.
 
 ---
 
