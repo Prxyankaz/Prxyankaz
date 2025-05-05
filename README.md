@@ -22,25 +22,21 @@ I'm a passionate full-stack developer and tech enthusiast who loves building imp
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![Scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![After Effects](https://img.shields.io/badge/Adobe%20AE-9999FF.svg?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 
 
 
 ### What I Work With
 
 * **Languages:** Python, Java, C++, JavaScript, HTML, CSS, SQL, Haskell
-* **Frameworks:** Flask, Node.js, Express, React, Django
-* **Tech & Tools:** AWS, Firebase, MongoDB, MySQL, Docker, Git, Jenkins, CI/CD pipelines
+* **Frameworks:** Flask, Node.js, Express, Socket.io
+* **Tech & Tools:** AWS, Firebase, MongoDB, MySQL, Git, CI/CD pipelines
 * **Embedded Systems:** STM32, ESP32, Keil, ARM Cortex-M, Embedded C
 * **Other Skills:** Full-stack development, Cloud platforms, Machine Learning, IoT
 
