@@ -37,23 +37,25 @@ I'm a passionate full-stack developer and tech enthusiast who loves building imp
 ![After Effects](https://img.shields.io/badge/Adobe%20AE-9999FF.svg?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 
 
----
 
-## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dracula&hide_border=true">
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&theme=dracula&show_icons=true&hide_border=true&layout=compact" height="150">
-</div>
+### What I Work With
+
+* **Languages:** Python, Java, C++, JavaScript, HTML, CSS, SQL, Haskell
+* **Frameworks:** Flask, Node.js, Express, React, Django
+* **Tech & Tools:** AWS, Firebase, MongoDB, MySQL, Docker, Git, Jenkins, CI/CD pipelines
+* **Embedded Systems:** STM32, ESP32, Keil, ARM Cortex-M, Embedded C
+* **Other Skills:** Full-stack development, Cloud platforms, Machine Learning, IoT
 
 ---
 
-## 🌐 Let's Connect:
+![Harini's Stats](https://github-readme-stats.vercel.app/api?username=HariniPriyanka\&theme=dark\&show_icons=true\&hide_border=false\&count_private=true)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
-[![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/yourdev)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+---
+
+### Let's Connect
+
+* **LinkedIn:** [linkedin.com/in/harini-priyanka](https://linkedin.com/in/harini-priyanka)
+* **Email:** [harinipriya.example@gmail.com](mailto:harinipriya.example@gmail.com)
+* **GitHub:** [github.com/HariniPriyanka](https://github.com/HariniPriyanka)
 
 ---
