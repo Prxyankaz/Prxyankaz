@@ -1,8 +1,6 @@
 # Harini Priyanka
 
 Curious learner. Passionate builder.
-
-#
 ### About Me
 
 I'm a passionate full-stack developer and tech enthusiast who loves building impactful solutions. From embedded systems to cloud-based apps, I enjoy crafting scalable software that makes a difference.
