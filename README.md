@@ -2,6 +2,11 @@
   <img src="https://github.com/Harini-username/assets/banner-placeholder.png" alt="Harini's Banner" width="700px">
 </div>
 
+# Harini Priyanka
+
+Curious learner. Passionate builder.
+
+---
 ## 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
