@@ -48,14 +48,16 @@ I'm a passionate full-stack developer and tech enthusiast who loves building imp
 
 ---
 
-![Harini's Stats](https://github-readme-stats.vercel.app/api?username=HariniPriyanka\&theme=dark\&show_icons=true\&hide_border=false\&count_private=true)
+### 📊 GitHub Stats
+
+![Harini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prxyankaz&theme=radical&show_icons=true&count_private=true)
 
 ---
 
-### Let's Connect
+### 📫 Let's Connect!
 
-* **LinkedIn:** [linkedin.com/in/harini-priyanka](https://linkedin.com/in/harini-priyanka)
-* **Email:** [harinipriya.example@gmail.com](mailto:harinipriya.example@gmail.com)
-* **GitHub:** [github.com/HariniPriyanka](https://github.com/HariniPriyanka)
+- **📧 Email:** [hpriyanka1710@gmail.com](mailto:hpriyanka1710@gmail.com)  
+- **🔗 LinkedIn:** [linkedin.com/in/harini-priyanka](https://linkedin.com/in/harini-priyanka)  
+- **💻 GitHub:** [github.com/Prxyankaz](https://github.com/Prxyankaz)
 
 ---
