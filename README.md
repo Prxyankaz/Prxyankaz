@@ -20,8 +20,6 @@ I'm a full-stack developer and tech enthusiast with a passion for building impac
 ## 📊 GitHub Activity Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prxyankaz&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Harini's GitHub Stats" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prxyankaz&layout=compact&theme=dark" alt="Harini's Top Languages" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prxyankaz&theme=black-ice" alt="Harini's GitHub Streak" />
