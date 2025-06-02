@@ -1,4 +1,4 @@
-# Harini Priyanka
+# Harini Priyanka W
 
 Curious learner. Passionate builder.
 
