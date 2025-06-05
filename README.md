@@ -1,6 +1,6 @@
 # Harini Priyanka W
 
-Curious learner. Passionate builder.
+Curious learner | Passionate builder 
 
 ### About Me
 
