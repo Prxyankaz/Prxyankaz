@@ -4,7 +4,7 @@ Curious learner | Passionate builder
 
 ### About Me
 
-I'm a full-stack developer and tech enthusiast with a passion for building impactful, scalable solutions—ranging from embedded systems to cloud-native apps. I thrive on solving real-world problems through code and innovation.
+I'm a full-stack developer and tech enthusiast with a passion for building impactful, scalable solutions. I thrive on solving real-world problems through code and innovation.
 
 
 
